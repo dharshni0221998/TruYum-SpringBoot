@@ -1,0 +1,12 @@
+<header>
+		<section class="truyum_head">
+			<section class="head1"><h2>truYum</h2></section>
+			<section class="img1"><img src="C:\Users\877962\eclipse-workspace\truyum\src\main\webapp\WEB-INF\views\common\877962-f2.png" width="35px" height="39px"></section>
+			<section class="nav1">
+				<nav>
+					<a href="/show-menu-list-customer" class="head_nav">Menu</a>
+					<a href="/show-cart?userId=1" class="head_nav" id="cart">Cart</a>
+				</nav>
+			</section >
+		</section>
+	</header>

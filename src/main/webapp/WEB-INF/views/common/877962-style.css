@@ -1,0 +1,88 @@
+header{
+	height: 60px;
+	background-color: #3c5b96;
+}
+footer{
+	
+	height: 60px;
+	background-color: #cdcdcd;
+	margin-top: 500px;
+}
+.footcpy{
+	padding: 0px, 10px, 10px, 10px;
+	margin-left: 10px;
+	display: inline-block;
+}
+body{
+	margin: 0;
+}
+.head_nav{
+	color: #cdcdcd;
+	padding: 10px, 30px;
+	margin-top: 20px;
+	display: inline-block;
+    
+}
+th{
+	text-align: left;
+	padding-right: 10px;
+}
+td{
+	padding-right: 10px;
+	padding-left: 5px;
+}
+.truyum_head{
+	
+	width: 80%;
+	margin: auto;
+}
+
+
+.head1{
+	
+	width: 6%;
+	float: left;
+	margin: auto;
+	color: #cdcdcd;
+}
+.img1{
+	
+	width: 74%;
+	float: left;
+	margin: auto;
+	padding-top: 15px;
+}
+.nav1{
+	
+	width: 20%;
+	float: left;
+	margin: auto;
+}
+.truyum_section1{
+	width: 80%;
+	margin: auto;
+	float: center;
+}
+#cart{
+	float: right;
+}
+.edit_section1{
+	width: 25%;
+	float: left;
+	margin: auto;
+	padding-top: 15px;
+}
+.button{
+	background-color: #305496;
+	color: #ffffff;
+	font-size:	16px;
+	text-align: center;
+	display: inline-block;
+}
+.sucess{
+	color: #00cc00;
+}
+#cart-sucess{
+	color: #00cc00;
+	text-align: center;
+}
